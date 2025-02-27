@@ -1,9 +1,9 @@
 ![image](https://user-images.githubusercontent.com/75848911/159310643-fc9b2588-be93-439d-a9f8-5905d5fecae9.png)
 <h1 align="center">Hi 👋, I'm Helmi</h1>
-<h3 align="center">Fullstack Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
-[![wakatime](https://wakatime.com/badge/user/f6d9965b-4129-4fb2-b66a-ad293f346c67.svg)](https://wakatime.com/@f6d9965b-4129-4fb2-b66a-ad293f346c67)
-![](https://komarev.com/ghpvc/?username=junicotandiago198)
+[![wakatime](https://wakatime.com/badge/user/f1fafba8-6bf8-4e1c-ad71-82c01572ca61.svg)](https://wakatime.com/@f1fafba8-6bf8-4e1c-ad71-82c01572ca61)
+![](https://komarev.com/ghpvc/?username=helmibe48)
 
 ## Coding Activity
 <a href="https://github.com/helmibe48"><img alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=helmibe48&theme=vue-dark&layout=compact&custom_title=" width="100%" /></a>
@@ -11,17 +11,15 @@
 <img align="right" alt="Coding" width="400" src="https://cjunicotandiago198.tenor.com/2uyENRmiUt0AAAAM/coding.gif">
 
 
-- 🔭 I’m currently working on *interested in website development specifically for the backend*
+- 🔭 I’m currently working on *website development specifically for enterprise app*
 
-- 🌱 I’m currently learning *Github Actions, React & Vue Js.*
+- 🌱 I’m currently learning *Ionic + Devops with open source stack to build on premise.*
 
-- 👯 I’m looking to collaborate on *any open source projects related to MERN.*
+- 👯 I’m looking to collaborate on *any open source projects related to Fullstack Developer.*
 
-- 💬 Ask me about *Javascript, Typescript*
+- 💬 Ask me about *Angular, Ionic, Nest, Laravel and Go*
 
 - 📫 How to reach me *Reach out to me directly through my <a href="https://www.instagram.com/helmibe/">Instagram</a>*
-
-- ⚡ Fun fact *I am Funny*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,4 +56,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helmibe48&show_icons=true&locale=en" alt="helmibe48" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helmibe48&" alt="helmibe48" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helmibe48" alt="helmibe48" /></p>
